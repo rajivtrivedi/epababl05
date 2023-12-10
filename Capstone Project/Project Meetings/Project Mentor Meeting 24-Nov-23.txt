@@ -1,0 +1,5 @@
+should not be with so much text in presetntion
+annotatoin in the tableau graph
+dashboar for the rest of data than demographic in dashboard
+put income as histogram instead of pie charts
+

@@ -1,0 +1,22 @@
+Discusson Notes
+============
+		running linear model on binary explnatory variables
+			its possible
+			we need to have dummy columns for each response
+			e.g.	
+				For Gender:
+					is-male: isMale Then 1
+					is-female: isFemale than 1
+
+		Data dictionary
+			giving column names for each descriptive names
+			dummy column names
+
+Next steps
+============
+	Take subset of data (few columns only)
+		e.g. is-male,is-female, age
+	run regression model, (linear /logstic)
+	try to interpret coefficent/model
+	
+	

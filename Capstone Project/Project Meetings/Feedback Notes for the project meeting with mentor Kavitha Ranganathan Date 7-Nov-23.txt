@@ -1,0 +1,16 @@
+Feedback Notes for the project meeting with mentor Kavitha Ranganathan Date 7-Nov-23
+============================================================================
+1) uban data for ahmedabad
+2) limitation in study
+3) limitation in terms of digital payments perspective
+4) monetary quantum of the amount peope comfortable with
+5) exploratory analysis (using tableau) should have objective matching to proejct objective
+6) scale of 1to 5 for ordinal scale
+7) Number of Response around 100-150 good enough considering the sample? That shoud be good enough?
+
+
+
+
+Actions: 
+1. circulate for more resopnse
+2. Ask laha sir for the feedback on collected data
